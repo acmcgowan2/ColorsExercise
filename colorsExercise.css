@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+    background-color: red;
+}
+
+h2{
+    color: rgb(33, 55, 75);
+    background-color: Orange;
+}
+
+h3{
+    color: #538;
+    background-color: yellow;
+}
+
+h4{
+    color: #36874a;
+    background-color: green;
+}
+
+h5{
+    color: #0009;
+    background-color: blue;
+}
+
+h6{
+    color: rgba(68, 68, 2, 1);
+    background-color: indigo;
+}
+
+p{
+   color: #d10a0a78;
+    background-color: violet
+}
+
+#first{
+    color: hotpink;
+}
+
+#last{
+    background-color: peachpuff;
+}
+
+.oneThree{
+   border: 5px solid green;
+}
+    
